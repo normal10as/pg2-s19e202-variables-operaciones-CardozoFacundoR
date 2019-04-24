@@ -1,0 +1,10 @@
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Semanas\bin\Debug\netcoreapp2.1\Semanas.deps.json
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Semanas\bin\Debug\netcoreapp2.1\Semanas.runtimeconfig.json
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Semanas\bin\Debug\netcoreapp2.1\Semanas.runtimeconfig.dev.json
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Semanas\bin\Debug\netcoreapp2.1\Semanas.dll
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Semanas\bin\Debug\netcoreapp2.1\Semanas.pdb
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Semanas\obj\Debug\netcoreapp2.1\Semanas.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Semanas\obj\Debug\netcoreapp2.1\Semanas.AssemblyInfoInputs.cache
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Semanas\obj\Debug\netcoreapp2.1\Semanas.AssemblyInfo.vb
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Semanas\obj\Debug\netcoreapp2.1\Semanas.dll
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Semanas\obj\Debug\netcoreapp2.1\Semanas.pdb

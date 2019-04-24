@@ -1,0 +1,10 @@
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\SumaMedia1_6\bin\Debug\netcoreapp2.1\SumaMedia1_6.deps.json
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\SumaMedia1_6\bin\Debug\netcoreapp2.1\SumaMedia1_6.runtimeconfig.json
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\SumaMedia1_6\bin\Debug\netcoreapp2.1\SumaMedia1_6.runtimeconfig.dev.json
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\SumaMedia1_6\bin\Debug\netcoreapp2.1\SumaMedia1_6.dll
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\SumaMedia1_6\bin\Debug\netcoreapp2.1\SumaMedia1_6.pdb
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\SumaMedia1_6\obj\Debug\netcoreapp2.1\SumaMedia1_6.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\SumaMedia1_6\obj\Debug\netcoreapp2.1\SumaMedia1_6.AssemblyInfoInputs.cache
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\SumaMedia1_6\obj\Debug\netcoreapp2.1\SumaMedia1_6.AssemblyInfo.vb
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\SumaMedia1_6\obj\Debug\netcoreapp2.1\SumaMedia1_6.dll
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\SumaMedia1_6\obj\Debug\netcoreapp2.1\SumaMedia1_6.pdb

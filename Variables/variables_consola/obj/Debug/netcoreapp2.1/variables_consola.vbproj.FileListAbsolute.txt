@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\variables_consola\bin\Debug\netcoreapp2.1\variables_consola.deps.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\variables_consola\bin\Debug\netcoreapp2.1\variables_consola.runtimeconfig.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\variables_consola\bin\Debug\netcoreapp2.1\variables_consola.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\variables_consola\bin\Debug\netcoreapp2.1\variables_consola.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\variables_consola\bin\Debug\netcoreapp2.1\variables_consola.pdb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\variables_consola\obj\Debug\netcoreapp2.1\variables_consola.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\variables_consola\obj\Debug\netcoreapp2.1\variables_consola.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\variables_consola\obj\Debug\netcoreapp2.1\variables_consola.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\variables_consola\obj\Debug\netcoreapp2.1\variables_consola.AssemblyInfo.vb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\variables_consola\obj\Debug\netcoreapp2.1\variables_consola.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\variables_consola\obj\Debug\netcoreapp2.1\variables_consola.pdb

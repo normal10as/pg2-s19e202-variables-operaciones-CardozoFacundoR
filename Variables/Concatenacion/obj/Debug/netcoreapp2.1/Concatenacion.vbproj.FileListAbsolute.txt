@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Concatenacion\bin\Debug\netcoreapp2.1\Concatenacion.deps.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Concatenacion\bin\Debug\netcoreapp2.1\Concatenacion.runtimeconfig.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Concatenacion\bin\Debug\netcoreapp2.1\Concatenacion.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Concatenacion\bin\Debug\netcoreapp2.1\Concatenacion.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Concatenacion\bin\Debug\netcoreapp2.1\Concatenacion.pdb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Concatenacion\obj\Debug\netcoreapp2.1\Concatenacion.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Concatenacion\obj\Debug\netcoreapp2.1\Concatenacion.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Concatenacion\obj\Debug\netcoreapp2.1\Concatenacion.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Concatenacion\obj\Debug\netcoreapp2.1\Concatenacion.AssemblyInfo.vb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Concatenacion\obj\Debug\netcoreapp2.1\Concatenacion.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Concatenacion\obj\Debug\netcoreapp2.1\Concatenacion.pdb

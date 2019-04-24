@@ -1,0 +1,11 @@
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\TablasVerdad\bin\Debug\netcoreapp2.1\TablasVerdad.deps.json
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\TablasVerdad\bin\Debug\netcoreapp2.1\TablasVerdad.runtimeconfig.json
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\TablasVerdad\bin\Debug\netcoreapp2.1\TablasVerdad.runtimeconfig.dev.json
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\TablasVerdad\bin\Debug\netcoreapp2.1\TablasVerdad.dll
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\TablasVerdad\bin\Debug\netcoreapp2.1\TablasVerdad.pdb
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\TablasVerdad\obj\Debug\netcoreapp2.1\TablasVerdad.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\TablasVerdad\obj\Debug\netcoreapp2.1\TablasVerdad.AssemblyInfoInputs.cache
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\TablasVerdad\obj\Debug\netcoreapp2.1\TablasVerdad.AssemblyInfo.vb
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\TablasVerdad\obj\Debug\netcoreapp2.1\TablasVerdad.dll
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\TablasVerdad\obj\Debug\netcoreapp2.1\TablasVerdad.pdb
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\TablasVerdad\obj\Debug\netcoreapp2.1\TablasVerdad.vbprojAssemblyReference.cache

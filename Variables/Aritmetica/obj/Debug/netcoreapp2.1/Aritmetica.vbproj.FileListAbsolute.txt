@@ -1,0 +1,11 @@
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Aritmetica\obj\Debug\netcoreapp2.1\Aritmetica.vbprojAssemblyReference.cache
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Aritmetica\obj\Debug\netcoreapp2.1\Aritmetica.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Aritmetica\obj\Debug\netcoreapp2.1\Aritmetica.AssemblyInfoInputs.cache
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Aritmetica\obj\Debug\netcoreapp2.1\Aritmetica.AssemblyInfo.vb
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Aritmetica\bin\Debug\netcoreapp2.1\Aritmetica.deps.json
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Aritmetica\bin\Debug\netcoreapp2.1\Aritmetica.runtimeconfig.json
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Aritmetica\bin\Debug\netcoreapp2.1\Aritmetica.runtimeconfig.dev.json
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Aritmetica\bin\Debug\netcoreapp2.1\Aritmetica.dll
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Aritmetica\bin\Debug\netcoreapp2.1\Aritmetica.pdb
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Aritmetica\obj\Debug\netcoreapp2.1\Aritmetica.dll
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Aritmetica\obj\Debug\netcoreapp2.1\Aritmetica.pdb
