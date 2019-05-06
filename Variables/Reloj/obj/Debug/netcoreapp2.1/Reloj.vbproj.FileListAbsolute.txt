@@ -1,0 +1,10 @@
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Reloj\bin\Debug\netcoreapp2.1\Reloj.deps.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Reloj\bin\Debug\netcoreapp2.1\Reloj.runtimeconfig.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Reloj\bin\Debug\netcoreapp2.1\Reloj.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Reloj\bin\Debug\netcoreapp2.1\Reloj.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Reloj\bin\Debug\netcoreapp2.1\Reloj.pdb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Reloj\obj\Debug\netcoreapp2.1\Reloj.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Reloj\obj\Debug\netcoreapp2.1\Reloj.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Reloj\obj\Debug\netcoreapp2.1\Reloj.AssemblyInfo.vb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Reloj\obj\Debug\netcoreapp2.1\Reloj.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Reloj\obj\Debug\netcoreapp2.1\Reloj.pdb

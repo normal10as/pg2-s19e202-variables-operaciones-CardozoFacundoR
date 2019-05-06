@@ -1,0 +1,11 @@
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Interes\bin\Debug\netcoreapp2.1\Interes.deps.json
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Interes\bin\Debug\netcoreapp2.1\Interes.runtimeconfig.json
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Interes\bin\Debug\netcoreapp2.1\Interes.runtimeconfig.dev.json
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Interes\bin\Debug\netcoreapp2.1\Interes.dll
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Interes\bin\Debug\netcoreapp2.1\Interes.pdb
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Interes\obj\Debug\netcoreapp2.1\Interes.vbprojAssemblyReference.cache
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Interes\obj\Debug\netcoreapp2.1\Interes.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Interes\obj\Debug\netcoreapp2.1\Interes.AssemblyInfoInputs.cache
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Interes\obj\Debug\netcoreapp2.1\Interes.AssemblyInfo.vb
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Interes\obj\Debug\netcoreapp2.1\Interes.dll
+C:\Users\Facu\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Interes\obj\Debug\netcoreapp2.1\Interes.pdb

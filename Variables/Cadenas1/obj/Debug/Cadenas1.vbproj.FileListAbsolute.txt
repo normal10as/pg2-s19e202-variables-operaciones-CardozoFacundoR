@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Cadenas1\bin\Debug\Cadenas1.exe.config
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Cadenas1\bin\Debug\Cadenas1.exe
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Cadenas1\bin\Debug\Cadenas1.pdb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Cadenas1\bin\Debug\Cadenas1.xml
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Cadenas1\obj\Debug\Cadenas1.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Cadenas1\obj\Debug\Cadenas1.Resources.resources
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Cadenas1\obj\Debug\Cadenas1.vbproj.GenerateResource.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Cadenas1\obj\Debug\Cadenas1.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Cadenas1\obj\Debug\Cadenas1.exe
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Cadenas1\obj\Debug\Cadenas1.xml
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Cadenas1\obj\Debug\Cadenas1.pdb

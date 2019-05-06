@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Facu\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\Variables_Tipos\\Variables_Tipos.vbproj": {}
+    "C:\\Users\\Facu\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\Variables_Tipos\\Variables_Tipos.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Facu\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\Variables_Tipos\\Variables_Tipos.vbproj": {
+    "C:\\Users\\Facu\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\Variables_Tipos\\Variables_Tipos.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Facu\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\Variables_Tipos\\Variables_Tipos.vbproj",
+        "projectUniqueName": "C:\\Users\\Facu\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\Variables_Tipos\\Variables_Tipos.vbproj",
         "projectName": "Variables_Tipos",
-        "projectPath": "C:\\Users\\Facu\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\Variables_Tipos\\Variables_Tipos.vbproj",
+        "projectPath": "C:\\Users\\Facu\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\Variables_Tipos\\Variables_Tipos.vbproj",
         "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Facu\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\Variables_Tipos\\obj\\",
+        "outputPath": "C:\\Users\\Facu\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\Variables_Tipos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

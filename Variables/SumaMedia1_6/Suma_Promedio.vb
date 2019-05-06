@@ -1,6 +1,6 @@
 Imports System
-
-Module SumaMedia1_6
+'Ejercicio 1.6
+Module Suma_Promedio
 	Sub Main(args As String())
 		Dim Numero1, Numero2, Numero3, Numero4, Suma, Resultado As Decimal
 		Console.Write("Ingrese primer numero: ")

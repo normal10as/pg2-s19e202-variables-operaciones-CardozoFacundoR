@@ -1,6 +1,7 @@
 Imports System
 
-Module Ecuacion1_5
+'Ejercicio 1.5
+Module Cuadratica
 	Sub Main(args As String())
 		Dim x As Decimal
 		Dim a, b, c As Byte

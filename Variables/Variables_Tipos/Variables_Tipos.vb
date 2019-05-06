@@ -1,5 +1,5 @@
 Imports System
-
+'Ejercicio 1.1
 Module Variables_Tipos
 	Sub Main(args As String())
 		Dim Nombre As String = "Pepe Rodriguez"

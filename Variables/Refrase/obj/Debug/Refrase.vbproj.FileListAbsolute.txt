@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Refrase\bin\Debug\Refrase.exe.config
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Refrase\bin\Debug\Refrase.exe
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Refrase\bin\Debug\Refrase.pdb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Refrase\bin\Debug\Refrase.xml
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Refrase\obj\Debug\Refrase.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Refrase\obj\Debug\Refrase.Resources.resources
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Refrase\obj\Debug\Refrase.vbproj.GenerateResource.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Refrase\obj\Debug\Refrase.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Refrase\obj\Debug\Refrase.exe
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Refrase\obj\Debug\Refrase.xml
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Refrase\obj\Debug\Refrase.pdb

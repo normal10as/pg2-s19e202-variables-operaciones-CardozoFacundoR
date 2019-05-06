@@ -1,14 +1,15 @@
 Imports System
-
+'Ejercicio 1.8
 Module TablasVerdad
 	Sub Main(args As String())
 		Const v As Boolean = True
 		Const f As Boolean = False
+
 		'And
 
 		Console.WriteLine("            AND      ")
 		Console.WriteLine("Exp1 ~ Exp2 ~ Exp1 AND Exp2~")
-		Console.WriteLine("  V  ~   V  ~    " & (v And v) & "      ~")
+		Console.WriteLine("  V  ~   V  ~    " & (v And f) & "      ~")
 		Console.WriteLine("  V  ~   F  ~    " & (v And f) & "     ~")
 		Console.WriteLine("  F  ~   V  ~    " & (f And v) & "     ~")
 		Console.WriteLine("  F  ~   F  ~    " & (f And f) & "     ~" + vbLf)

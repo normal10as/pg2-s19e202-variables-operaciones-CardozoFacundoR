@@ -1,5 +1,5 @@
 Imports System
-
+'Ejercicio anulado.
 Module Semanas
 	Sub Main(args As String())
 		Const DiasAño As UShort = 364

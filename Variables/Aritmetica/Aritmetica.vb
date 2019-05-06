@@ -1,5 +1,5 @@
 Imports System
-
+'Ejercicio 1.4
 Module Aritmetica
 	Sub Main(args As String())
 		Dim Entero1, Entero2 As Byte

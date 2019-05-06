@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Facu\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\Ecuacion1_6\\Ecuacion1_5.vbproj",
-      "projectName": "Ecuacion1_5",
-      "projectPath": "C:\\Users\\Facu\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\Ecuacion1_6\\Ecuacion1_5.vbproj",
+      "projectUniqueName": "C:\\Users\\Facu\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\Ecuacion1_6\\Cuadratica.vbproj",
+      "projectName": "Cuadratica",
+      "projectPath": "C:\\Users\\Facu\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\Ecuacion1_6\\Cuadratica.vbproj",
       "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Facu\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\Ecuacion1_6\\obj\\",
       "projectStyle": "PackageReference",

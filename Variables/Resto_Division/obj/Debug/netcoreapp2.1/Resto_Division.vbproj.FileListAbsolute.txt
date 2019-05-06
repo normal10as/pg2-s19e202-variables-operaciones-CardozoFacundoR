@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Resto_Division\bin\Debug\netcoreapp2.1\Resto_Division.deps.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Resto_Division\bin\Debug\netcoreapp2.1\Resto_Division.runtimeconfig.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Resto_Division\bin\Debug\netcoreapp2.1\Resto_Division.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Resto_Division\bin\Debug\netcoreapp2.1\Resto_Division.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Resto_Division\bin\Debug\netcoreapp2.1\Resto_Division.pdb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Resto_Division\obj\Debug\netcoreapp2.1\Resto_Division.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Resto_Division\obj\Debug\netcoreapp2.1\Resto_Division.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Resto_Division\obj\Debug\netcoreapp2.1\Resto_Division.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Resto_Division\obj\Debug\netcoreapp2.1\Resto_Division.AssemblyInfo.vb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Resto_Division\obj\Debug\netcoreapp2.1\Resto_Division.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Resto_Division\obj\Debug\netcoreapp2.1\Resto_Division.pdb

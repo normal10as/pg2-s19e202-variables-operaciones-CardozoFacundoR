@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Facu\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\SumaMedia1_6\\SumaMedia1_6.vbproj",
-      "projectName": "SumaMedia1_6",
-      "projectPath": "C:\\Users\\Facu\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\SumaMedia1_6\\SumaMedia1_6.vbproj",
+      "projectUniqueName": "C:\\Users\\Facu\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\SumaMedia1_6\\Suma_Promedio.vbproj",
+      "projectName": "Suma_Promedio",
+      "projectPath": "C:\\Users\\Facu\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\SumaMedia1_6\\Suma_Promedio.vbproj",
       "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Facu\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-CardozoFacundoR\\Variables\\SumaMedia1_6\\obj\\",
       "projectStyle": "PackageReference",

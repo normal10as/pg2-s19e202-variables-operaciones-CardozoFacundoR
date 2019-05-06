@@ -1,0 +1,10 @@
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Matematica1\bin\Debug\netcoreapp2.1\Matematicas1.deps.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Matematica1\bin\Debug\netcoreapp2.1\Matematicas1.runtimeconfig.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Matematica1\bin\Debug\netcoreapp2.1\Matematicas1.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Matematica1\bin\Debug\netcoreapp2.1\Matematicas1.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Matematica1\bin\Debug\netcoreapp2.1\Matematicas1.pdb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Matematica1\obj\Debug\netcoreapp2.1\Matematicas1.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Matematica1\obj\Debug\netcoreapp2.1\Matematicas1.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Matematica1\obj\Debug\netcoreapp2.1\Matematicas1.AssemblyInfo.vb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Matematica1\obj\Debug\netcoreapp2.1\Matematicas1.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-CardozoFacundoR\Variables\Matematica1\obj\Debug\netcoreapp2.1\Matematicas1.pdb

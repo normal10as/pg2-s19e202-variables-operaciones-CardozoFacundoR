@@ -1,5 +1,5 @@
 Imports System
-
+'Ejercicio 1.3
 Module Concatenacion
 	Sub Main(args As String())
 		Dim NomEmp As Char = "Ivess "
@@ -11,10 +11,7 @@ Module Concatenacion
 		Dim Empresa As String
 
 
-		'conversion implicita
 
-
-		'conversion explicita 
 
 
 
