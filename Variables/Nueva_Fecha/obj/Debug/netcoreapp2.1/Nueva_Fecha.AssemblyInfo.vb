@@ -13,12 +13,12 @@ Option Explicit On
 
 Imports System
 Imports System.Reflection
-<Assembly: System.Reflection.AssemblyCompanyAttribute("Ajustar_reloj"),  _
+<Assembly: System.Reflection.AssemblyCompanyAttribute("Nueva_Fecha"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
  Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
- Assembly: System.Reflection.AssemblyProductAttribute("Ajustar_reloj"),  _
- Assembly: System.Reflection.AssemblyTitleAttribute("Ajustar_reloj"),  _
+ Assembly: System.Reflection.AssemblyProductAttribute("Nueva_Fecha"),  _
+ Assembly: System.Reflection.AssemblyTitleAttribute("Nueva_Fecha"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
 
 'Generado por la clase WriteCodeFragment de MSBuild.
